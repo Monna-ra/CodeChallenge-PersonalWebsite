@@ -21,7 +21,7 @@ export default function Contact () {
             imageSrc="email.png"
             message="Still can't know that yet! 🌹🤭"
         />
-        <a href="https://github.com/monnara" target="_blank" className="transform transition-transform duration-300 hover:scale-110">
+        <a href="https://github.com/Monna-ra" target="_blank" className="transform transition-transform duration-300 hover:scale-110">
         <img src="github.png" alt="github" className="w-10 h-10" />
         </a>
 </div>
