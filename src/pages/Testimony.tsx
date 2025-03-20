@@ -6,7 +6,7 @@ export default function Testimony() {
             <div className="mb-8 md:mb-16">
                 <img
                     src="Testimony.png"
-                    alt="Testimony"
+                    alt=""
                     className="mx-auto w-48 md:w-64 lg:w-80" 
                 />
             </div>
@@ -37,7 +37,7 @@ export default function Testimony() {
                         </div>
                         <div className="flex items-center space-x-3 text-amber-800 hover:text-amber-400">
                             <img src="email.png" alt="Email" className="w-6 h-6" />
-                            <p>email.email@email.com</p>
+                            <p>email.email@gmail.com</p>
                         </div>
                     </div>
                 </div>
