@@ -3,12 +3,8 @@ import React from "react";
 export default function Testimony() {
     return (
         <div className="container mx-auto px-4 md:px-8 lg:px-16 py-8 md:py-16 text-center" id="testimony">
-            <div className="mb-8 md:mb-16">
-                <img
-                    src="Testimony.png"
-                    alt=""
-                    className="mx-auto w-48 md:w-64 lg:w-80" 
-                />
+            <div className="mitems-center mx-auto mb-20 w-90 h-20">
+                <img src="testimony.png" alt="" />
             </div>
             <div className="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-10">
 
@@ -37,7 +33,7 @@ export default function Testimony() {
                         </div>
                         <div className="flex items-center space-x-3 text-amber-800 hover:text-amber-400">
                             <img src="email.png" alt="Email" className="w-6 h-6" />
-                            <p>email.email@gmail.com</p>
+                            <p>email.gmail@gmail.com</p>
                         </div>
                     </div>
                 </div>
